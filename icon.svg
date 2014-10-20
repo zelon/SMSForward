@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   viewBox="0 0 48 48"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="ic_sms_48px.svg"
+   inkscape:export-filename="C:\Users\JINWOOK\Downloads\material-design-icons-1.0.0\material-design-icons-1.0.0\notification\svg\ic_sms_512px.png"
+   inkscape:export-xdpi="960"
+   inkscape:export-ydpi="960">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10">
+    <filter
+       id="filter3803"
+       inkscape:label="Invert"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Invert colors"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix3805"
+         type="saturate"
+         values="1"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         id="feColorMatrix3807"
+         in="fbSourceGraphic"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 " />
+    </filter>
+    <filter
+       id="filter3809"
+       inkscape:label="Invert"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Invert colors"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix3811"
+         type="saturate"
+         values="1"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         id="feColorMatrix3813"
+         in="fbSourceGraphic"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 " />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="961"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="6.9532167"
+     inkscape:cx="15.473715"
+     inkscape:cy="37.457826"
+     inkscape:window-x="-8"
+     inkscape:window-y="18"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <path
+     style="fill:none"
+     inkscape:connector-curvature="0"
+     d="m -66.711864,-5.491525 h 48 v 48 h -48 z"
+     id="path3015" />
+  <g
+     id="g3815">
+    <path
+       style="stroke:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter3803)"
+       inkscape:connector-curvature="0"
+       id="path4"
+       d="M 36.671979,7.0613104 H 10.095708 c -1.835424,0 -3.305424,1.4866102 -3.305424,3.3220336 l -0.01661,29.898306 6.6440682,-6.644068 h 23.254237 c 1.835424,0 3.322034,-1.48661 3.322034,-3.322034 V 10.383344 c 0,-1.8354234 -1.48661,-3.3220336 -3.322034,-3.3220336 z M 18.400793,22.010463 H 15.078759 V 18.68843 h 3.322034 v 3.322033 z m 6.644067,0 H 21.722826 V 18.68843 h 3.322034 v 3.322033 z m 6.644068,0 H 28.366894 V 18.68843 h 3.322034 v 3.322033 z" />
+    <path
+       style="fill:none"
+       inkscape:connector-curvature="0"
+       id="path6"
+       d="M 3.4516399,3.7392765 H 43.316047 V 43.603684 H 3.4516399 z" />
+    <path
+       style="stroke:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter3809)"
+       sodipodi:nodetypes="cccccccc"
+       id="path3017"
+       d="m 35.149549,43.031525 10,-10 -10,-10 0,6 -8,0 0,8 8,0 z"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
