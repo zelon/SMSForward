@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">SMSForward</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="app_name">SMS Forward</string>
+    <string name="filter_words">When received SMS like below(separated by comma)</string>
+    <string name="forward_to">Forward to this number</string>
 
 </resources>

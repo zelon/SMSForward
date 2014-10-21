@@ -11,7 +11,7 @@
         android:layout_alignParentLeft="true"
         android:layout_alignParentTop="true"
         android:labelFor="@+id/editText_keywords"
-        android:text="이런 문자 받았을 때(콤마로 구분)"
+        android:text="@string/filter_words"
         android:textAppearance="?android:attr/textAppearanceMedium" />
 
     <EditText
@@ -34,7 +34,7 @@
         android:layout_alignParentLeft="true"
         android:layout_below="@+id/editText_keywords"
         android:labelFor="@+id/editText_to"
-        android:text="이 번호로 문자 발송"
+        android:text="@string/forward_to"
         android:textAppearance="?android:attr/textAppearanceMedium" />
 
     <EditText

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">문자 전달</string>
+    <string name="filter_words">이런 문자 받았을 때(콤마로 구분)</string>
+    <string name="forward_to">이 번호로 문자 발송</string>
+
+</resources>
